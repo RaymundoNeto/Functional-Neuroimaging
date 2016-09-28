@@ -6,7 +6,8 @@ Visit the Wiki to learn how to contribute to this repository
 
 This repository is maintained by the Functional Neuroimaging Laboratory, at the Department of Radiology of the Medical School of the University of São Paulo, Brazil. 
 
-The MIT License (MIT)
+
+GPL2
 
 Copyright (c) 2016 Raymundo Machado de Azevedo Neto
 
