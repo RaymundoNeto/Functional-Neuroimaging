@@ -1,6 +1,6 @@
 # Functional-Neuroimaging
 
-This repository contains a **study track** and (still to be defined) **scripts** for those who would like to work or are working with functional neuroimaging.
+This repository contains a **study track** and (*still to be defined*) **scripts** for those who would like to work or are working with functional neuroimaging.
 
 Visit the Wiki to learn how to contribute to this repository 
 
